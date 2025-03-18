@@ -1,4 +1,4 @@
-kb_IT's your Life HTML CSS JS 과제
+![function1](https://github.com/user-attachments/assets/221fd943-b606-47cd-9b67-b18a90fed31f)kb_IT's your Life HTML CSS JS 과제
 # ToDoList 커스텀 과제
 
 ## 1. 추가하고 싶은 기능 2가지 정의
@@ -36,7 +36,8 @@ todolist 앞에 d-day가 필요한 일정은 다른 색으로 d-day를 표시
  ├── 7. D-Day 텍스트를 빨간색으로 표시하여 To-Do 항목 앞에 추가
  └── 종료
 ```
-![function1](https://github.com/user-attachments/assets/62e0b6a3-00a4-4d5b-be0a-85d55b775846)
+![function1](https://github.com/user-attachments/assets/66ab8171-9906-4826-aa99-ae745d5088ca)
+
 
 #### 2) 삭제 기능
 ```plaintext
@@ -60,5 +61,6 @@ todolist 앞에 d-day가 필요한 일정은 다른 색으로 d-day를 표시
  │
  └── 종료
 ``` 
-![function2](https://github.com/user-attachments/assets/ad3963d4-7788-4e33-92f9-eaac2292e1c0)
+![function2](https://github.com/user-attachments/assets/e2e2b91e-9805-4089-97d6-a3b7114f1466)
+
 

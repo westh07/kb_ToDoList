@@ -1,4 +1,4 @@
-![function1](https://github.com/user-attachments/assets/221fd943-b606-47cd-9b67-b18a90fed31f)kb_IT's your Life HTML CSS JS 과제
+kb_IT's your Life HTML CSS JS 과제
 # ToDoList 커스텀 과제
 
 ## 1. 추가하고 싶은 기능 2가지 정의
